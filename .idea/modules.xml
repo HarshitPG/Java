@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic Maths/Basic Maths.iml" filepath="$PROJECT_DIR$/Basic Maths/Basic Maths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch2D/BinarySearch2D.iml" filepath="$PROJECT_DIR$/BinarySearch2D/BinarySearch2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOperaters/BitwiseOperaters.iml" filepath="$PROJECT_DIR$/BitwiseOperaters/BitwiseOperaters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BubbleSort/BubbleSort.iml" filepath="$PROJECT_DIR$/BubbleSort/BubbleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/CyclicSort/CyclicSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA in JAVA.iml" filepath="$PROJECT_DIR$/DSA in JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recrusion1/Recrusion1.iml" filepath="$PROJECT_DIR$/Recrusion1/Recrusion1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
+    </modules>
+  </component>
+</project>
